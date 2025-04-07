@@ -1,4 +1,4 @@
-# M.R.S 777
+
 
 ## Menu
 - [Home](#home)
@@ -6,10 +6,10 @@
 - [About Us](#about-us)
 - [Contact](#contact)
 
-## home
+## Home
 Welcome to M.R.S 777
 
-## products
+## Products
 
 ## MRS777 video registrator
 
@@ -68,7 +68,7 @@ Welcome to M.R.S 777
 **Qo’shimcha va to’liq ma’lumot uchun:**  
 ☎️ 90-990 22 20
 
-## about-us
+## About-us
 
 🚘 Большой ассортимент авто аксессуаров  
 🚘 Katta xajimdagi Avto aksessuarlar  
@@ -76,7 +76,7 @@ Welcome to M.R.S 777
 ⁉️ Qiziqtirgan maxsulot tagida komentariyani bosib savollarni berishingiz mumkin...  
 ⁉️ Можете задавать свои вопросы в комментариях...
 
-## contact
+## Contact
 
 - **Telegram:** [@MARUFJONcom](https://t.me/MARUFJONcom)
 - **Instagram:** [@auto_mrs777](https://t.me/auto_mrs777)
