@@ -7,9 +7,16 @@
 - [Contact](#contact)
 
 ## Home
-Welcome to M.R.S 777
+<details>
+<summary>Click to view</summary>
+
+Welcome to M.R.S 777!
+
+</details>
 
 ## Products
+<details>
+<summary>Click to view</summary>
 
 ## MRS777 video registrator
 
@@ -39,36 +46,11 @@ Welcome to M.R.S 777
 **Qo’shimcha ma’lumot uchun:**  
 ☎️ 90-990 22 20
 
-### Diamond Monitor 2k QLED
-
-![Diamond Monitor](https://frankfurt.apollo.olxcdn.com/v1/files/j2drntp53dxs-UZ/image;s=1000x750)
-
-**360° gradus kamera ulasa bo’ladi**
-
-**Mavjud funksiyalar:**
-- Sim karta + 5G internet
-- Navigator, GPS
-- Bluetooth
-- Wi-Fi
-- Carplay
-- Youtube
-- Waze
-
-**Texnik xususiyatlar:**
-- 4 GB RAM / 64 GB ROM
-- 11.5 dyuym Ekran
-- Ovozli boshqaruv
-- 3D navigatsiyani qo’llab-quvvatlash
-- FM/AM
-- Bir nechta tillarni qo’llab-quvvatlash
-- Spark, Cobalt, Gentra ramkalari uchun mos
-
-**Narxi:** 1.755.000 So’m  
-**O’zbekiston bo’ylab yetkazib berish xizmati bilan.**  
-**Qo’shimcha va to’liq ma’lumot uchun:**  
-☎️ 90-990 22 20
+</details>
 
 ## About-us
+<details>
+<summary>Click to view</summary>
 
 🚘 Большой ассортимент авто аксессуаров  
 🚘 Katta xajimdagi Avto aksessuarlar  
@@ -76,8 +58,14 @@ Welcome to M.R.S 777
 ⁉️ Qiziqtirgan maxsulot tagida komentariyani bosib savollarni berishingiz mumkin...  
 ⁉️ Можете задавать свои вопросы в комментариях...
 
+</details>
+
 ## Contact
+<details>
+<summary>Click to view</summary>
 
 - **Telegram:** [@MARUFJONcom](https://t.me/MARUFJONcom)
 - **Instagram:** [@auto_mrs777](https://t.me/auto_mrs777)
 - **Phone:** +998 90 990 22 20
+
+</details>
